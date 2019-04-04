@@ -1,6 +1,6 @@
 # CamVid 
 
-Data riginally from http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
+Data originally from http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
 
 Training-validation-test splits from https://github.com/alexgkendall/SegNet-Tutorial
 
